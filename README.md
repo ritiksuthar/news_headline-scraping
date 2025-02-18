@@ -7,11 +7,11 @@ Requirements:
   Python 3
   requests library
   BeautifulSoup from bs4
-  Installation:
-
-Install Python if not already installed.
-  Install required libraries using:
-    pip install requests beautifulsoup4
+  
+Installation:
+  Install Python if not already installed.
+    Install required libraries using:
+      pip install requests beautifulsoup4
 
 How to Run:
   Open a terminal or command prompt.
